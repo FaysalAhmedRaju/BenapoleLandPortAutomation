@@ -1,0 +1,14 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+_ide_helper.php
+
+
+/resources/views/layouts/sidebars/*
+
